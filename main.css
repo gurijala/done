@@ -1,0 +1,48 @@
+/*------ Document -----*/
+body {
+	margin: 0 auto;
+	padding: 0;
+	font: .75em/1.5em Helvetica, Arial, sans-serif;
+	color: white;
+	width: 960px;
+	background: #797267;
+}
+
+
+#two{
+
+	border:2px solid black;
+	margin-top:30px;
+	margin-left:38px;
+	margin-right:30px;
+	margin-bottom:30px;
+}
+footer {
+	text-align:center;
+	color:#423b2e;
+	font-size:0.9em;
+
+}
+#r{
+	margin-top:40px;
+	margin-left:40px;
+}
+#rr{
+	margin-left:400Spx;
+	margin-top:40px;
+	margin-right:64px;
+	margin-bottom:30px;
+	padding-top:84;
+}
+#column1of2{
+	margin-left:64px;
+	width:260px;
+
+}
+#column2of2{
+	width:450px;
+
+}
+#current {
+	color:red;
+}
